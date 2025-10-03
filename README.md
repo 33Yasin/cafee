@@ -4,8 +4,8 @@
 Kullanıcı dostu arayüzü ve tek sayfa (single-page) mimarisi ile akıcı bir deneyim sunar.  
 
 [![Live Demo](https://img.shields.io/badge/🌐%20Canlı%20Demo-Click%20Here-blue?style=for-the-badge)](https://cafee.yasinatici.com/)  
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) 
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+
+
 
 ---
 
