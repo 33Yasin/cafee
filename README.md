@@ -1,69 +1,65 @@
-# Cafee - Modern Kafe Web Sitesi
+# ☕ Cafee - Modern Kafe Web Sitesi  
 
-Bu proje, React ve Tailwind CSS kullanılarak geliştirilmiş modern ve responsive bir kafe web sitesidir. Tek sayfa (single-page) mimarisine sahip olup, kullanıcı dostu bir arayüz sunar.
+🚀 **React + Tailwind CSS** ile geliştirilmiş, modern ve responsive bir kafe web sitesi.  
+Kullanıcı dostu arayüzü ve tek sayfa (single-page) mimarisi ile akıcı bir deneyim sunar.  
 
-## 🚀 Canlı Demo
-[Buradan projeyi inceleyebilirsiniz](https://cafee.yasinatici.com/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Canlı%20Demo-Click%20Here-blue?style=for-the-badge)](https://cafee.yasinatici.com/)  
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/) 
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
 
+---
 
-<img width="764" height="15654" alt="cafee yasinatici com_" src="https://github.com/user-attachments/assets/cc55fb5f-c8e9-48a8-8b60-9ae2c0f4555c" />
+## ✨ Özellikler  
 
+- 📱 **Responsive Tasarım** – Mobil, tablet ve masaüstü cihazlarla tam uyumlu.  
+- 🎨 **Modern Arayüz** – Tailwind CSS ile oluşturulmuş şık tasarım.  
+- ⚛️ **Komponent Bazlı Yapı** – React komponentleri ile kolay yönetim.  
+- 🔗 **Tek Sayfa Navigasyonu** – Sayfa yenilenmeden akıcı geçişler.  
+- 📋 **Dinamik Menü** – JSON verileriyle oluşturulan menü bölümü.  
+- 🗺️ **Google Maps Entegrasyonu** – Etkileşimli harita desteği.  
 
-## ✨ Özellikler
+---
 
-- **Responsive Tasarım:** Mobil, tablet ve masaüstü cihazlarla tam uyumlu.
-- **Modern Arayüz:** Tailwind CSS ile oluşturulmuş temiz ve şık tasarım.
-- **Komponent Bazlı Yapı:** React komponentleri sayesinde yönetimi ve geliştirmesi kolay kod yapısı.
-- **Tek Sayfa Navigasyonu:** Sayfa yenilenmeden bölümler arasında akıcı geçişler.
-- **Dinamik Menü:** `JSON` dosyasından çekilen verilerle oluşturulan menü bölümü.
-- **Etkileşimli Harita:** Google Maps entegrasyonu ile konum bilgisi.
+## 🛠️ Kullanılan Teknolojiler  
 
-## 🛠️ Kullanılan Teknolojiler
+- **React** → Kullanıcı arayüzü kütüphanesi  
+- **Tailwind CSS** → Modern ve hızlı CSS framework  
+- **React Icons** → İkon kütüphanesi  
 
-- **React:** Kullanıcı arayüzü oluşturmak için kullanılan JavaScript kütüphanesi.
-- **Tailwind CSS:** Hızlı ve modern tasarımlar için kullanılan bir CSS çatısı.
-- **React Icons:** Projede kullanılan sosyal medya ve diğer ikonlar için.
+---
 
-## 🚀 Kurulum ve Başlatma
+## 🚀 Kurulum ve Çalıştırma  
 
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
+Projeyi yerel makinenizde çalıştırmak için:  
 
-1.  **Projeyi klonlayın:**
-    ```bash
-    git clone https://github.com/kullanici-adiniz/cafee.git
-    ```
+```bash
+# 1. Projeyi klonla
+git clone https://github.com/kullanici-adiniz/cafee.git
 
-2.  **Proje dizinine gidin:**
-    ```bash
-    cd cafee
-    ```
+# 2. Proje dizinine gir
+cd cafee
 
-3.  **Gerekli paketleri yükleyin:**
-    ```bash
-    npm install
-    ```
+# 3. Bağımlılıkları yükle
+npm install
 
-4.  **Geliştirme sunucusunu başlatın:**
-    ```bash
-    npm run dev
-    ```
-    Proje varsayılan olarak `http://localhost:5173` adresinde çalışacaktır. (Port numarası farklılık gösterebilir.)
+# 4. Geliştirme sunucusunu başlat
+npm run dev
 
-## 📂 Proje Yapısı
-
-```
+📂 Proje Yapısı
 cafee/
-├── public/
-│   └── ...
+├── public/             # Statik dosyalar
 ├── src/
-│   ├── assets/         # Resimler ve diğer statik varlıklar
+│   ├── assets/         # Resimler ve statik varlıklar
 │   ├── components/     # React komponentleri (Navbar, Hero, Menu vb.)
-│   ├── data/           # Menü gibi JSON verileri
+│   ├── data/           # JSON verileri (menü vb.)
 │   ├── App.jsx         # Ana uygulama komponenti
-│   └── index.css       # Global stiller ve Tailwind CSS importları
-│   └── main.jsx        # Uygulamanın başlangıç noktası
+│   ├── index.css       # Global stiller + Tailwind importları
+│   └── main.jsx        # Giriş noktası
 ├── .gitignore
 ├── index.html
 ├── package.json
 └── README.md
-```
+
+👨‍💻 Geliştirici
+
+Yasin Atıcı
