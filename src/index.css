@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single+Ink:wght@100..900&display=swap');
+@font-face {
+    font-family: 'Bitcount Prop Single Ink';
+    src: url("../src/assets/fonts/BitcountPropSingleInk-VariableFont_CRSV\,ELSH\,ELXP\,SZP1\,SZP2\,XPN1\,XPN2\,YPN1\,YPN2\,slnt\,wght.ttf");
+}
+
+@import "tailwindcss";
+
+@theme{
+    --font-bitcount: 'Bitcount Prop Single Ink', sans-serif;
+}

@@ -1,0 +1,46 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "title": "İtalyan Pizza",
+      "description": "İtalyan usulü, özel soslu ve bol malzemeli pizza",
+      "imageUrl": "/src/assets/images/pizza.png",
+      "category": "Ana Yemek"
+    },
+    {
+      "id": 2,
+      "title": "Gurme Burger",
+      "description": "Özel sosuyla ev yapımı burger, taze sebzeler ile",
+      "imageUrl": "/src/assets/images/hamburger.png",
+      "category": "Ana Yemek"
+    },
+    {
+      "id": 3,
+      "title": "Fresh Salata",
+      "description": "Mevsim yeşillikleri ve özel vinegret sos ile hazırlanan salata",
+      "imageUrl": "/src/assets/images/salad.png",
+      "category": "Başlangıç"
+    },
+    {
+      "id": 4,
+      "title": "Yummy Pasta",
+      "description": "Günlük taze hazırlanan özel pasta çeşitleri",
+      "imageUrl": "/src/assets/images/cake.png",
+      "category": "Tatlı"
+    },
+    {
+      "id": 5,
+      "title": "Dondurma",
+      "description": "Çeşit çeşit ev yapımı dondurma",
+      "imageUrl": "/src/assets/images/ice-cream.png",
+      "category": "Tatlı"
+    },
+    {
+      "id": 6,
+      "title": "Milkshake",
+      "description": "Taze süt ve meyvelerle hazırlanan özel milkshake",
+      "imageUrl": "/src/assets/images/milkshake.png",
+      "category": "İçecek"
+    }
+  ]
+}
