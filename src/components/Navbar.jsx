@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import burgerIcon from '../assets/burger.png';
 
 function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -36,7 +35,7 @@ function Navbar() {
       {/* Mobil menü */}
       <div className='sm:hidden'>
         <button className='block' onClick={openMenu}>
-          <img src={burgerIcon} alt="Menu" width={25} height={25} />
+          <img src="/images/burger.png" alt="Menu" width={25} height={25} />
         </button>
         {isMenuOpen && (
           <ul className='z-10 absolute right-0 mt-2 w-48 bg-white shadow-lg rounded-md py-2 flex flex-col'>
